@@ -1,0 +1,19 @@
+# Ignore .env file
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+
+# Databases
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
